@@ -22,7 +22,6 @@ Welcome to the Movie App! This application allows users to explore upcoming movi
 - Vite: A fast build tool for modern web development.
 
 ## Setup and Installation
-
 1. Clone this repository to your local machine.
 2. Navigate to the project directory using the command line.
 3. Run `npm install` to install the project dependencies.
@@ -34,16 +33,13 @@ Welcome to the Movie App! This application allows users to explore upcoming movi
 6. Open your web browser and navigate to http://localhost:5173` to use the app.
 
 ## Usage
-
 - Upon launching the app, you will see a list of upcoming movies.
 - You can use the search bar to search for specific movies by title.
 - Click on a movie to view its detailed information, including cast and crew.
 
 ## Credits
-
 - Movie data is provided by [The Movie Database (TMDB)](https://www.themoviedb.org/).
 - Icons are sourced from [Material Icons](https://material.io/resources/icons/).
-- Banner image created by [Freepik](https://www.freepik.com/).
 
 ## License
 
