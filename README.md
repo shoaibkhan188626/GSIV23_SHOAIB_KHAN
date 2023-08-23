@@ -1,9 +1,4 @@
-# GSIV23_SHOAIB_KHAN
-Sure, here's a sample README.md file for your movie app:
-
-# Movie App
-
-![Movie App](/src/assets/movie-app-banner.png)
+# GSIV23_SHOAIB_KHAN 
 
 ## Description
 
