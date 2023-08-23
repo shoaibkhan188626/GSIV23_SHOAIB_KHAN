@@ -35,8 +35,8 @@ Welcome to the Movie App! This application allows users to explore upcoming movi
    ```
    REACT_APP_TMDB_API_KEY=your_api_key_here
    ```
-5. Run `npm start` to start the development server.
-6. Open your web browser and navigate to `http://localhost:3000` to use the app.
+5. Run `npm run dev` to start the development server.
+6. Open your web browser and navigate to http://localhost:5173` to use the app.
 
 ## Usage
 
